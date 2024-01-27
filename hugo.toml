@@ -5,7 +5,13 @@ theme = 'PaperMod'
 publishdir = "./public/"
 
 [[menu.main]]
-name = "Articles"
+name = "Posts"
 weight = 100
-identifier = "articles"
-url = "/content"
+identifier = "posts"
+url = "/posts"
+
+[[menu.main]]
+name = "Tags"
+weight = 100
+identifier = "tags"
+url = "/tags"
