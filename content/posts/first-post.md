@@ -1,7 +1,7 @@
 +++
 title = 'First Post'
 date = 2024-01-27T15:23:09+02:00
-draft = true
+draft = false
 tags = ["first-tag"]
 comments = true
 summary = "First summary"
